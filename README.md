@@ -12,7 +12,7 @@ Each demo highlights how Copilot adapts its behavior based on context and reposi
 ## Useful Links
 
 - [ChatGPT Prompt Generator](https://www.feedough.com/chatgpt-prompt-generator/)
-- [BeastMode ChatMode Prompt Gist](https://gist.github.com/berkay-digital/29e142dc7f6494ef3ecb99b854a6ce73#file-beastmode-chatmode-md)
+- [BeastMode ChatMode](https://gist.github.com/berkay-digital/29e142dc7f6494ef3ecb99b854a6ce73#file-beastmode-chatmode-md)
 - [Awesome Copilot (GitHub)](https://github.com/github/awesome-copilot/tree/main)
 - [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 - [MCP Server Step-by-Step Guide](https://composio.dev/blog/mcp-server-step-by-step-guide-to-building-from-scrtch)
