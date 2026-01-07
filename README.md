@@ -8,7 +8,16 @@ This document provides a set of live demos that showcase how GitHub Copilot uses
 
 Each demo highlights how Copilot adapts its behavior based on context and repository configuration.
 
----
+
+## Useful Links
+
+- [ChatGPT Prompt Generator](https://www.feedough.com/chatgpt-prompt-generator/)
+- [BeastMode ChatMode Prompt Gist](https://gist.github.com/berkay-digital/29e142dc7f6494ef3ecb99b854a6ce73#file-beastmode-chatmode-md)
+- [Awesome Copilot (GitHub)](https://github.com/github/awesome-copilot/tree/main)
+- [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
+- [MCP Server Step-by-Step Guide](https://composio.dev/blog/mcp-server-step-by-step-guide-to-building-from-scrtch)
+- [Toon: Bye Bye JSON for LLMs (Medium)](https://medium.com/data-science-in-your-pocket/toon-bye-bye-json-for-llms-91e4fe521b14)
+- [NotebookLM by Google](https://notebooklm.google.com/)
 
 ## 📌 Demo 1 — API Instructions in Controllers
 
@@ -25,8 +34,6 @@ Improve this endpoint following the repository instructions.
 - Suggests returning `ActionResult<T>`  
 - Avoids inventing endpoints  
 - Applies clarity and validation rules  
-
----
 
 ## 📌 Demo 2 — Test Instructions in the Tests Folder
 
